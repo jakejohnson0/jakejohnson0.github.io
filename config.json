@@ -1,0 +1,15 @@
+[
+ {
+  "username": "jakejohnson0",
+  "name": "Jake Johnson",
+  "userimg": "https://avatars.githubusercontent.com/u/146991306?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": false,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "twitter": "jakejohnson0"
+ }
+]
